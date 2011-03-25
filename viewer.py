@@ -1,6 +1,9 @@
 import psyco
 psyco.full()
 
+# Please see included README for license details.
+# In short, it's BSD licensed. Enjoy!
+
 from Mightex import *
 from Tkinter import *
 from PIL import Image, ImageTk, ImageOps, ImageStat

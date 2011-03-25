@@ -1,6 +1,9 @@
 #import psyco
 #psyco.full()
 
+# Please see included README for license details.
+# In short, it's BSD licensed. Enjoy!
+
 import usb.core
 import sys
 import array
