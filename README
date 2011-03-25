@@ -1,0 +1,8 @@
+A Python library for the Mightex camera. 
+
+This was specifically built to work with a BTN-B013U camera and implemented
+from the “Mightex Buffer USB Camera USB Protocol”, v1.0.5. Also contains a
+simple cross-platform viewer application demonstrating use of this API for
+real-time image processing via PIL (that’s right, a working Mightex-to-PIL
+Image converter: use mine so you don’t have to suffer the pain of figuring out
+how to do this yourself).
